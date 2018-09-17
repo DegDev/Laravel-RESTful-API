@@ -28,7 +28,7 @@ class UserController extends Controller
     /**
      * Fetch a listing of all the users.
      *
-     * @return \Illuminate\Http\Response
+     * @return App\Http\Resources\UserResource Collection
      */
     public function index()
     {
