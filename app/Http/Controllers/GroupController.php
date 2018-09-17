@@ -29,7 +29,7 @@ class GroupController extends Controller
     /**
      * Display a listing of the groups.
      *
-     * @return \App\Http\Resources\GroupResource
+     * @return \App\Http\Resources\GroupResource Collection
      */
     public function index()
     {
