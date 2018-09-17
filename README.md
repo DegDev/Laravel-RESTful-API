@@ -28,8 +28,8 @@
 
 <h1> Intallation </h1>
 1. Clone repository<br>
-2. Composer install<br>
-3. Create and setup .env<br>
+2. Run in console: Composer install<br>
+3. Create and setup your .env<br>
 4. Run in console: php artisan migrate --seed<br>
 
 
