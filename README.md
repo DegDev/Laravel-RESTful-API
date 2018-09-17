@@ -23,7 +23,15 @@
 - /groups/id/ - modify group info <br>
  
 <h4>Bonus:</h4>
-- to perform a functional test
-- add validation constraints/rules
+- to perform a functional test <br>
+- add validation constraints/rules <br>
+
+<h1> Intallation </h1>
+1. Clone repository<br>
+2. Composer install<br>
+3. Create and setup .env<br>
+4. Run in console: php artisan migrate --seed<br>
+
+
 
 
